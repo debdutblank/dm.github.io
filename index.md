@@ -1,3 +1,4 @@
+![Profile](assets/img/dm_photo.jpeg)
 ---
 layout: home
 title: Home
@@ -8,7 +9,7 @@ Hi — I’m **Debdut Mandal**, an EE researcher focused on **optimization, inve
 **Links**
 - Website: https://drsuite.org
 - GitHub: https://github.com/debdutblank
-- Google Scholar: (add your Scholar link)
+- Google Scholar: https://scholar.google.com/citations?user=CDlY6_EAAAAJ&hl=en
 - Email: debdutmandal123@gmail.com
 
 **Highlights**
