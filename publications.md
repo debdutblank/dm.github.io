@@ -2,11 +2,16 @@
 title: Publications
 ---
 
-- **An Efficient Algorithm for Spatial-Spectral Partial Volume Compartment Mapping with Applications to Multicomponent Diffusion and Relaxation MRI**  
-  Y. Liu, D. Mandal*, C. Liao, K. Setsompop, J. Haldar, 2025 (*equal contribution)
+1. **Y. Liu, D. Mandal\*, C. Liao, K. Setsompop, J. Haldar**  
+   *An Efficient Algorithm for Spatial-Spectral Partial Volume Compartment Mapping with Applications to Multicomponent Diffusion and Relaxation MRI* (2025).  
+   \*Equal contribution.
 
-- **Differential encoding of two-tone harmonics in the male and female mouse auditory cortex**  
-  A. De, S. Agarwalla, R. Kaushik, D. Mandal, S. Bandyopadhyay, *Journal of Neuroscience*, 2024
+2. **A. De, S. Agarwalla, R. Kaushik, D. Mandal, S. Bandyopadhyay**  
+   *Differential encoding of two-tone harmonics in the male and female mouse auditory cortex*. *Journal of Neuroscience* (2024).
 
-- **In-vivo estimation of axon radii from clinical scanners**  
-  D. Mandal, L. Ning, Y. Rathi, *IEEE ISBI*, 2023
+3. **D. Mandal, L. Ning, Y. Rathi**  
+   *In-vivo estimation of axon radii from clinical scanners*. *IEEE ISBI* (2023).
+
+---
+
+For a full publication list and updates, see [Google Scholar](https://scholar.google.com/citations?user=CDlY6_EAAAAJ&hl=en).
